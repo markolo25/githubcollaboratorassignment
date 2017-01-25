@@ -10,4 +10,6 @@ Name, Organization, and Contact Info
 	* Email: birgit.penzenstadler@csulb.edu
 	* GitHub: @kamikitty
 	
-* 
+* Mark Levie Mendoza, CSULB student
+	* Email: markolo25@gmail.com
+	* GitHub: @markolo25 
